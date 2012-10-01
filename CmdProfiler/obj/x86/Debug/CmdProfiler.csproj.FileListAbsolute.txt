@@ -1,0 +1,10 @@
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\CmdProfiler.exe.config
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\CmdProfiler.exe
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\CmdProfiler.pdb
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\IMDBXmlNode.dll
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\IMDBXmlNode.pdb
+C:\src\IMDBXmlNode\CmdProfiler\obj\x86\Debug\CmdProfiler.csprojResolveAssemblyReference.cache
+C:\src\IMDBXmlNode\CmdProfiler\obj\x86\Debug\CmdProfiler.exe
+C:\src\IMDBXmlNode\CmdProfiler\obj\x86\Debug\CmdProfiler.pdb
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\CmdProfiler.exe.CodeAnalysisLog.xml
+C:\src\IMDBXmlNode\CmdProfiler\bin\Debug\CmdProfiler.exe.lastcodeanalysissucceeded

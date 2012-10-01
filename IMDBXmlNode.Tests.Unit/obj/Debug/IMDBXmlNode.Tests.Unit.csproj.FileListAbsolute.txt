@@ -1,0 +1,14 @@
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\IMDBXmlNode.Tests.Unit.dll
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\IMDBXmlNode.Tests.Unit.pdb
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\Moq.dll
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\nunit.framework.dll
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\IMDBXmlNode.pdb
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\Moq.pdb
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\Moq.xml
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\nunit.framework.xml
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\obj\Debug\IMDBXmlNode.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\obj\Debug\IMDBXmlNode.Tests.Unit.dll
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\obj\Debug\IMDBXmlNode.Tests.Unit.pdb
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\Examples.exe
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\IMDBXmlNode.dll
+C:\src\IMDBXmlNode\IMDBXmlNode.Tests.Unit\bin\Debug\Examples.pdb
