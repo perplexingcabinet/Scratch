@@ -1,5 +1,0 @@
-<Modules>
-  <Module PersistentId="3B7863D2-4077-45C6-ABDA-FF8815E3DBE5" ModuleId="IMDBXmlNode" />
-  <Module PersistentId="02AE259C-B6DF-4722-B799-AB40BCACEA36" ModuleId="IMDBXmlNode.Tests.Unit" />
-  <Module PersistentId="499A5BFC-2EAD-4903-8378-E39144E59CEA" ModuleId="Examples" />
-</Modules>

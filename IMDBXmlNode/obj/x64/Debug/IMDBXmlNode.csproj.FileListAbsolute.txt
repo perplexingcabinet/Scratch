@@ -1,4 +1,0 @@
-C:\src\IMDBXmlNode\IMDBXmlNode\bin\x64\Debug\IMDBXmlNode.pdb
-C:\src\IMDBXmlNode\IMDBXmlNode\obj\x64\Debug\IMDBXmlNode.pdb
-C:\src\IMDBXmlNode\IMDBXmlNode\bin\x64\Debug\IMDBXmlNode.dll
-C:\src\IMDBXmlNode\IMDBXmlNode\obj\x64\Debug\IMDBXmlNode.dll

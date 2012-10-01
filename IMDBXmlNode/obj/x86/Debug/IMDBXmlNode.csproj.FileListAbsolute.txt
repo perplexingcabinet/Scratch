@@ -1,5 +1,0 @@
-C:\src\IMDBXmlNode\IMDBXmlNode\bin\x86\Debug\IMDBXmlNode.pdb
-C:\src\IMDBXmlNode\IMDBXmlNode\obj\x86\Debug\IMDBXmlNode.pdb
-C:\src\IMDBXmlNode\IMDBXmlNode\bin\x86\Debug\IMDBXmlNode.exe
-C:\src\IMDBXmlNode\IMDBXmlNode\obj\x86\Debug\IMDBXmlNode.exe
-C:\src\IMDBXmlNode\IMDBXmlNode\obj\x86\Debug\IMDBXmlNode.csprojResolveAssemblyReference.cache
